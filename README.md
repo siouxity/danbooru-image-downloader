@@ -1,8 +1,11 @@
 # danbooru-image-downloader
 # Requirements
 Python >=3.81
+
 pixivpy_async
+
 aiofiles
+
 aiohttp[speedups]
 # Tutorial
 Open command prompt and type pip install aiofiles (or python -m pip install aiofiles)
